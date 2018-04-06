@@ -3,7 +3,7 @@ backend:
   repo: E-labor/static-silk-road
   branch: master
   site_domain: silk-road.netlify.com
-  
+
 publish_mode: editorial_workflow
 media_folder: "assets/img/uploads"
 public_folder: "/assets/img/uploads"
@@ -26,7 +26,7 @@ collections:
       widget: "string"
       required: true
     - label: "Introduction"
-      name: "sub-title"
+      name: "intro"
       widget: "text"
     - label: "Step"
       name: "step"
