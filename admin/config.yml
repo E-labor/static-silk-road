@@ -4,8 +4,8 @@ backend:
   branch: master
   site_domain: silk-road.netlify.com
   publish_mode: editorial_workflow
-  media_folder: "/assets/img/uploads"
-  public_folder: "/assets/img/uploads"
+  media_folder: "assets/img/uploads"
+  public_folder: "assets/img/uploads"
   collections:
   - name: "posts" # Used in routes, e.g. /admin/collections/blog
     label: "Posts" # Used in the UI
