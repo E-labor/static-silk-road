@@ -1,10 +1,14 @@
-# Site content configuration
+---
+
+### Site content configuration ###
 title: "Voyage sur la route de la soie | Kyrgyzstan & Tadjikistan"
 name: "Voyage sur la route de la soie"
 keywords: "silk road, kirgyzstan, tadjikistan, voyage"
-description: > # this means to ignore newlines
-Voyage sur la route de la soie, Kyrgyzstan & Tadjikistan
+description: "Voyage sur la route de la soie, Kyrgyzstan & Tadjikistan"
 
-# Site settings
+
+### Site settings ###
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+### Site permalink settings ###
+permalink: /:title ## disables post output

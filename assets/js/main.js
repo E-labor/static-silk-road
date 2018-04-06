@@ -90,7 +90,7 @@ var initMap = () => {
 		let stepsData = step.dataset, timelines = [], duration;
 	  	Object.keys(stepsData).map(function(key, index) {
 	  		if (key.search('timeline') > -1) {
-	  			timelines.push(JSON.parse(stepsData[key]));
+	  			timelines.push(JSON.parse((stepsData[key]).replace(/=>/g, ':')));
 	  		} else {
 	  			duration = parseFloat(stepsData[key]);
 	  		}
