@@ -9,6 +9,7 @@ description: "Voyage sur la route de la soie, Kyrgyzstan & Tadjikistan"
 
 ### Site settings ###
 baseurl: "" # the subpath of your site, e.g. /blog
+url: "silk-road.netlify.com"
 
 ### Site permalink settings ###
 permalink: /:title ## disables post output
