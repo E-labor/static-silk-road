@@ -1,3 +1,6 @@
+// Imports
+@import 'normalize';
+
 /* Global styles */
 *,
 *:after,
@@ -217,7 +220,7 @@ header {
 		
 		.caption {
 			font-size: 0.85em;
-			font-style: italic;
+			display: block;
 			padding: 1em 1.5em 0;
 			text-align: center;
 			color: #5f646c;
@@ -300,6 +303,3 @@ header {
 		max-width: none;
 	}
 }
-
-// Imports
-@import 'normalize';
