@@ -28,6 +28,7 @@ collections:
     - label: "Introduction"
       name: "intro"
       widget: "text"
+      required: false
     - label: "Step"
       name: "step"
       widget: "select"

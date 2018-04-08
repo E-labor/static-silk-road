@@ -208,15 +208,12 @@ header {
 		}
 	}
 
-	figure {
+	.step-image {
 		margin: 1em 0 2em;
-
-		img {
-			max-width: 100%;
-		}
+		max-width: 100%;
 	}
 
-	figcaption {
+	.caption {
 		font-size: 0.85em;
 		font-style: italic;
 		padding: 1em 1.5em 0;
@@ -270,16 +267,6 @@ header {
 	display: block;
 	padding: 0.15em 0 0.35em;
 	color: #5f646c;
-}
-
-.step-gallery {
-	font-size: 0;
-	text-align: center;
-
-	img {
-		max-width: 100%;
-		margin: 10px 0;
-	}
 }
 
 @media(max-width: 720px) {
