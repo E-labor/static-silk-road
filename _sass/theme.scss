@@ -210,15 +210,18 @@ header {
 
 	.step-image {
 		margin: 1em 0 2em;
-		max-width: 100%;
-	}
 
-	.caption {
-		font-size: 0.85em;
-		font-style: italic;
-		padding: 1em 1.5em 0;
-		text-align: center;
-		color: #5f646c;
+		img {
+			max-width: 100%;
+		}
+		
+		.caption {
+			font-size: 0.85em;
+			font-style: italic;
+			padding: 1em 1.5em 0;
+			text-align: center;
+			color: #5f646c;
+		}
 	}
 
 	blockquote {
