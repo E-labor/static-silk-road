@@ -6,10 +6,10 @@ step: step10
 duration: '0.9'
 data-timeline: 
    - duration: '.5'
-   	 position: +=.0
+     position: +=.0
      viewBox: 600 350 650 500
    - duration: '.3'
-   	 position: +=.0
+     position: +=.0
      viewBox: 700 400 500 450
 ---
 
