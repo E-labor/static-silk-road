@@ -5,7 +5,7 @@ layout: default
 <div class="story">
 	{% for post in site.posts reversed %}
         <section class="step-section {% if post.step %}{{post.step}}{% endif %}"
-        data-duration="{{post.duration}}"
+        {% if post.duration %} data-duration="{{post.duration}}" {% endif %}
 		{% if post.data-timeline %}{% for datas in post.data-timeline %} data-timeline-{{forloop.index}}='{{datas}}' {% endfor %}{% endif %}>
 			<h2>
 				<span class="title-up">{{post.title}}</span>
