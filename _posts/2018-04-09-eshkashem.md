@@ -4,10 +4,15 @@ title: Eshkashem
 sub-title: Lorem ipsum dolor
 step: step16
 duration: '0.8'
-data-timeline: >-
-  [{ "duration":".3","viewBox":"385 1150 700 500","position":"+=0" }, {
-  "duration":".3","viewBox":"410 1000 600 600","position":"+=0" }]
+data-timeline: 
+   - duration: '.3'
+   	 position: +=.0
+     viewBox: 385 1150 700 500
+   - duration: '.3'
+   	 position: +=.0
+     viewBox: 410 1000 600 600
 ---
+
 At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
 Suspendisse potenti. Vestibulum volutpat. Proin semper, dolor eu porttitor scelerisque, risus dui vehicula justo, id vulputate quam ante vel ipsum. Pellentesque id neque nec ligula elementum aliquet. Maecenas venenatis tortor ut quam faucibus ornare. Donec mollis eros. Mauris magna pede, vehicula eget, molestie ac, vehicula sed, orci. Morbi pharetra urna at eros. Donec cursus dui luctus nulla. Curabitur malesuada justo in libero. In erat diam, sagittis quis, dictum at, ultrices eget, enim.
 

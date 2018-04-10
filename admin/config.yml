@@ -41,7 +41,7 @@ collections:
     - label: "Timelines"
       name: "data-timeline"
       widget: "string"
-      required: true
+      required: false
     - label: "Body"
       name: "body"
       widget: "markdown"
