@@ -1,16 +1,3 @@
-// function loadSvg(selector, url) {
-//   	var target = document.querySelector(selector);
-// 	// Request the SVG file
-//     var ajax = new XMLHttpRequest();
-//     ajax.open("GET", url + ".svg", true);
-//     ajax.send();
-
-//     // Append the SVG to the target
-//     ajax.onload = function(e) {
-//       target.innerHTML = ajax.responseText;
-//     }
-// }
-
 // function to simulate svg path hidden
 function pathPrepare(el) {
 	let lineLength = el.getTotalLength();
@@ -38,7 +25,7 @@ function mapAnimate() {
 	this.scenes = [];
 	this.setAnimation = function(element, duration, timelines) {
 		var circles = document.querySelectorAll('#steps circle');
-			circles[0].style.stroke = '#74D7B6'; // set firts step circle with right style
+			circles[0].style.stroke = '#FCF375'; // set firts step circle with right style
         let el = document.querySelector('.'+ element),
         	map = document.getElementById("map-svg"),
         	city = cities[Number(element.slice(4))],
@@ -48,7 +35,7 @@ function mapAnimate() {
 
         // set step circle animation timeline
         let ctl = new TimelineMax();
-        ctl.to(circle, .2, {scale:2, strokeWidth:2, stroke:'#74D7B6', ease:Power2.easeIn}) 
+        ctl.to(circle, .2, {scale:2, strokeWidth:2, stroke:'#FCF375', ease:Power2.easeIn}) 
         ctl.to(circle, .2, {scale:1, strokeWidth:1, ease:Power2.easeIn});
 
         // set animation main timeline 
@@ -82,7 +69,6 @@ function mapAnimate() {
 // init map animations
 var mapAnimate = new mapAnimate();
 var initMap = () => {
-	// loadSvg('.map-container', 'img/map.svg');
 	// loop over all steps sections
 	var steps = document.querySelectorAll('.step-section');
 	steps.forEach((step) => {

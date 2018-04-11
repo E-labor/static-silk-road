@@ -6,7 +6,7 @@ intro: |-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua.
 step: step2
-duration: '1'
+duration: '1.2'
 data-timeline:
   - duration: '.5'
     position: +=0

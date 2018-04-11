@@ -3,7 +3,7 @@ date: '2017-07-23T00:00:00+02:00'
 title: Kalaikhumb
 sub-title: Lorem ipsum dolor
 step: step18
-duration: '0.8'
+duration: '1'
 data-timeline: 
    - duration: '.3'
      position: +=.0
@@ -13,6 +13,9 @@ data-timeline:
      viewBox: 150 1000 700 500
    - duration: '.3'
      position: +=.0
+     viewBox: 75 1000 700 500
+   - duration: '.3'
+     position: +=.15
      viewBox: 120 925 500 400
 ---
 
