@@ -35,8 +35,8 @@ function mapAnimate() {
 
         // set step circle animation timeline
         let ctl = new TimelineMax();
-        ctl.to(circle, .2, {scale:2, strokeWidth:2, stroke:'#FCF375', ease:Power2.easeIn}) 
-        ctl.to(circle, .2, {scale:1, strokeWidth:1, ease:Power2.easeIn});
+        ctl.to(circle, .2, {scale:2, strokeWidth:2, stroke:'#FCF375', ease:Power2.easeIn, transformOrigin:"50% 50%"}) 
+        ctl.to(circle, .2, {scale:1, strokeWidth:1, ease:Power2.easeIn, transformOrigin:"50% 50%"});
 
         // set animation main timeline 
         let tl = new TimelineMax({onUpadte:drawPath, onUpadteParams:[element, duration]});
