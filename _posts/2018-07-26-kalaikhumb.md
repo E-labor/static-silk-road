@@ -1,25 +1,25 @@
 ---
-date: '2017-07-23T00:00:00+02:00'
+date: '2017-07-26T00:00:00+02:00'
 title: Kalaikhumb
 sub-title: Lorem ipsum dolor
 step: step17
 duration: '2.2'
-data-timeline: 
-   - duration: '.3'
-     position: +=.0
-     viewBox: 250 1000 700 500
-   - duration: '.3'
-     position: +=.0
-     viewBox: 150 1000 700 500
-   - duration: '.3'
-     position: +=.0
-     viewBox: 75 1000 700 500
-   - duration: '.5'
-     position: +=.0
-     viewBox: 50 1000 700 500
-   - duration: '.5'
-     position: +=.35
-     viewBox: 390 700 200 1427
+data-timeline:
+  - duration: '.3'
+    position: +=.0
+    viewBox: 250 1000 700 500
+  - duration: '.3'
+    position: +=.0
+    viewBox: 150 1000 700 500
+  - duration: '.3'
+    position: +=.0
+    viewBox: 75 1000 700 500
+  - duration: '.5'
+    position: +=.0
+    viewBox: 50 1000 700 500
+  - duration: '.5'
+    position: +=.35
+    viewBox: 390 700 200 1427
 ---
 
 At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
