@@ -1,6 +1,6 @@
 ---
 date: '2017-07-13T17:32:14+02:00'
-title: Tash Rabat
+title: Tash Rabat &#8674; Song Kul
 sub-title: Lorem ipsum dolor
 step: step6
 duration: '0.8'

@@ -1,6 +1,6 @@
 ---
 date: '2017-07-18T17:45:36+02:00'
-title: Arslanbob
+title: Arslanbob &#8674; Och
 sub-title: Lorem ipsum dolor
 step: step10
 duration: '0.9'

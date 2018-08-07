@@ -1,6 +1,6 @@
 ---
 date: '2017-07-08T00:00:00+02:00'
-title: Tchon Kemin
+title: Tchon Kemin &#8674; Karakol
 sub-title: Lorem ipsum dolor
 intro: |-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
