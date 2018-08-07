@@ -7,19 +7,16 @@ duration: '2.2'
 data-timeline:
   - duration: '.3'
     position: +=.0
-    viewBox: 250 1000 700 500
+    viewBox: 475 950 750 600
   - duration: '.3'
     position: +=.0
-    viewBox: 150 1000 700 500
-  - duration: '.3'
-    position: +=.0
-    viewBox: 75 1000 700 500
+    viewBox: 410 1050 750 600
   - duration: '.5'
-    position: +=.0
-    viewBox: 50 1000 700 500
+    position: +=.80
+    viewBox: 220 900 900 750
   - duration: '.5'
     position: +=.35
-    viewBox: 390 700 200 1427
+    viewBox: 425 600 1400 2000
 ---
 
 At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
