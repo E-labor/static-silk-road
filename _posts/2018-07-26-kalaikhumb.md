@@ -27,3 +27,15 @@ Suspendisse potenti. Vestibulum volutpat. Proin semper, dolor eu porttitor scele
 {: .step-image}
 
 Mauris euismod ante ac turpis. Donec ante ante, tincidunt sit amet, laoreet rutrum, lacinia at, sem. Nam et nunc vitae dui posuere sodales. Aliquam vel erat. Vestibulum condimentum laoreet quam. Suspendisse viverra velit at lorem. Vestibulum suscipit interdum purus. Suspendisse ut enim vitae risus blandit dignissim. Sed facilisis, odio vitae aliquam ullamcorper, elit arcu hendrerit velit, vitae pretium eros lorem luctus lectus. Aliquam non nisl. Nulla facilisi. Maecenas non tellus. Praesent ipsum nisi, lobortis non, posuere non, ultrices in, lacus. Phasellus lobortis euismod nibh. Vivamus sollicitudin velit sed felis. Suspendisse commodo augue quis dui. Suspendisse porttitor odio sed nisl lacinia gravida. Ut tincidunt, velit et tempor pulvinar, mi urna venenatis diam, in ultrices lacus nibh eu libero.
+
+![placeholder](http://via.placeholder.com/700x450 'placeholder')
+*Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat*{: .caption}
+{: .step-image}
+
+Mauris euismod ante ac turpis. Donec ante ante, tincidunt sit amet, laoreet rutrum, lacinia at, sem. Nam et nunc vitae dui posuere sodales. Aliquam vel erat. Vestibulum condimentum laoreet quam. Suspendisse viverra velit at lorem. Vestibulum suscipit interdum purus. Suspendisse ut enim vitae risus blandit dignissim. Sed facilisis, odio vitae aliquam ullamcorper, elit arcu hendrerit velit, vitae pretium eros lorem luctus lectus. Aliquam non nisl. Nulla facilisi. Maecenas non tellus. Praesent ipsum nisi, lobortis non, posuere non, ultrices in, lacus. Phasellus lobortis euismod nibh. Vivamus sollicitudin velit sed felis. Suspendisse commodo augue quis dui. Suspendisse porttitor odio sed nisl lacinia gravida. Ut tincidunt, velit et tempor pulvinar, mi urna venenatis diam, in ultrices lacus nibh eu libero.
+
+![placeholder](http://via.placeholder.com/700x450 'placeholder')
+*Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat*{: .caption}
+{: .step-image}
+
+Mauris euismod ante ac turpis. Donec ante ante, tincidunt sit amet, laoreet rutrum, lacinia at, sem. Nam et nunc vitae dui posuere sodales. Aliquam vel erat. Vestibulum condimentum laoreet quam. Suspendisse viverra velit at lorem. Vestibulum suscipit interdum purus. Suspendisse ut enim vitae risus blandit dignissim. Sed facilisis, odio vitae aliquam ullamcorper, elit arcu hendrerit velit, vitae pretium eros lorem luctus lectus. Aliquam non nisl. Nulla facilisi. Maecenas non tellus. Praesent ipsum nisi, lobortis non, posuere non, ultrices in, lacus. Phasellus lobortis euismod nibh. Vivamus sollicitudin velit sed felis. Suspendisse commodo augue quis dui. Suspendisse porttitor odio sed nisl lacinia gravida. Ut tincidunt, velit et tempor pulvinar, mi urna venenatis diam, in ultrices lacus nibh eu libero.
