@@ -1,5 +1,6 @@
 // Imports
 @import 'normalize';
+@import 'lightgallery';
 
 /* Global styles */
 *,
@@ -212,19 +213,21 @@ header {
 	}
 
 	.step-image {
-		margin: 1em 0 2em;
+		margin: 1em 0 0;
 
 		img {
 			max-width: 100%;
+			cursor: url($baseurl + "../img/plus_cursor.png") 25 25, pointer;
 		}
-		
-		.caption {
-			font-size: 0.85em;
-			display: block;
-			padding: 1em 1.5em 0;
-			text-align: center;
-			color: #5f646c;
-		}
+	}
+
+	.caption {
+		font-size: 0.85em;
+		display: block;
+		padding: 0 1.5em;
+		margin: 0 0 2em;
+		text-align: center;
+		color: #5f646c;
 	}
 
 	blockquote {

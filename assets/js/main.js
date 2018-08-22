@@ -19,6 +19,12 @@ cities.forEach((city, index) => {
 	}
 });
 
+// lightGallery for all images
+var stepImages = document.querySelectorAll('.step-image');
+stepImages.forEach(function(images) {
+  lightGallery(images);
+});
+
 // function to animate path & the map viewbox(pan & zoom) 
 function mapAnimate() {
 	this.controller = new ScrollMagic.Controller();
