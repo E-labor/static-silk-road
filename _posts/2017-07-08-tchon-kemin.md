@@ -1,10 +1,8 @@
 ---
 date: '2017-07-08T00:00:00+02:00'
-title: Tchon Kemin &#8674; Karakol
-sub-title: Lorem ipsum dolor
-intro: |-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua.
+title: 'Tchon Kemin &#8674; Karakol'
+sub-title: Le lac Issik Kul
+intro: ''
 step: step2
 duration: '1.1'
 data-timeline:
@@ -18,16 +16,18 @@ data-timeline:
     position: +=.1
     viewBox: 1775 150 800 500
 ---
+Aujourd'hui nous prenons la route pour Karakol, et longeons toute la rive nord du lac Issyk Kul.\
+Ce lac pourtant situé à 1606m d'altitude et entouré des sommets enneigés des Tien Shan ne gèle jamais. Il est salé et reçoit l'eau de toutes les rivières issues des glaciers. Avec ses 182km de long et ses 60km de large, il est aussi le deuxième plus grand lac alpin du monde !\
+La rive nord du lac est un lieu de villégiature et de loisirs pendant l'été, les plus courageux n'ont pas peur de plonger dans ses eaux sereines et cristallines mais pourtant bien froides... Nous y plongeons tout de même les orteils ! 
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+En cours de route, une première escale nous mène dans les gorges alpines de Grigorievskoe : nous parcourons un sentier de randonnée bordé par une rivière vive, de hauts sapins, à flanc de montagne. 
 
-Suspendisse potenti. Vestibulum volutpat. Proin semper, dolor eu porttitor scelerisque, risus dui vehicula justo, id vulputate quam ante vel ipsum. Pellentesque id neque nec ligula elementum aliquet. Maecenas venenatis tortor ut quam faucibus ornare. Donec mollis eros. Mauris magna pede, vehicula eget, molestie ac, vehicula sed, orci. Morbi pharetra urna at eros. Donec cursus dui luctus nulla. Curabitur malesuada justo in libero. In erat diam, sagittis quis, dictum at, ultrices eget, enim.
+Nous bifurquons ensuite vers les gorges de Semienovskoe qui débutent au Kazakhstan, le paysage se métamorphose sous nos yeux et laisse apparaître une plaine immense et verdoyante, parcourue de chevaux, et de troupeaux menés par des bergers, et bordée de montagne douces mais élevées. Ici, nos seuls compagnons sont les ombres et les lumières qui défilent sur les reliefs, le vent qui apporte la fraîcheur des montagnes, et l'eau qui abreuve de ses bienfaits cette immensité.
+
+Le soir nous arrivons à Karakol, ville la plus importante du lac. Le ciel se couvre, la pluie s'annonce mais nous profitons malgré tout d'un sympathique dîner en terrasse avec Danil et en buvant nos premiers verres de vodka kirghize.
 
 {:.step-image}
-[![](/assets/img/uploads/kirghyzstan.jpeg)](/assets/img/uploads/kirghyzstan.jpeg 'kirghyzstan')
+[![](/assets/img/uploads/kirghyzstan.jpeg)](/assets/img/uploads/kirghyzstan.jpeg "kirghyzstan")
 
 {:.caption}
-*Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat*
-
-
-Mauris euismod ante ac turpis. Donec ante ante, tincidunt sit amet, laoreet rutrum, lacinia at, sem. Nam et nunc vitae dui posuere sodales. Aliquam vel erat. Vestibulum condimentum laoreet quam. Suspendisse viverra velit at lorem. Vestibulum suscipit interdum purus. Suspendisse ut enim vitae risus blandit dignissim. Sed facilisis, odio vitae aliquam ullamcorper, elit arcu hendrerit velit, vitae pretium eros lorem luctus lectus. Aliquam non nisl. Nulla facilisi. Maecenas non tellus. Praesent ipsum nisi, lobortis non, posuere non, ultrices in, lacus. Phasellus lobortis euismod nibh. Vivamus sollicitudin velit sed felis. Suspendisse commodo augue quis dui. Suspendisse porttitor odio sed nisl lacinia gravida. Ut tincidunt, velit et tempor pulvinar, mi urna venenatis diam, in ultrices lacus nibh eu libero.
+_Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat_
