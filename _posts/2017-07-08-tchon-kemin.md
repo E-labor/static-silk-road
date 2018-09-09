@@ -16,8 +16,8 @@ data-timeline:
     position: +=.1
     viewBox: 1775 150 800 500
 ---
-Aujourd'hui nous prenons la route pour Karakol, et longeons toute la rive nord du lac Issyk Kul.\
-Ce lac pourtant situé à 1606m d'altitude et entouré des sommets enneigés des Tien Shan ne gèle jamais. Il est salé et reçoit l'eau de toutes les rivières issues des glaciers. Avec ses 182km de long et ses 60km de large, il est aussi le deuxième plus grand lac alpin du monde !\
+Aujourd'hui nous prenons la route pour Karakol, et longeons toute la rive nord du lac Issyk Kul.
+Ce lac pourtant situé à 1606m d'altitude et entouré des sommets enneigés des Tien Shan ne gèle jamais. Il est salé et reçoit l'eau de toutes les rivières issues des glaciers. Avec ses 182km de long et ses 60km de large, il est aussi le deuxième plus grand lac alpin du monde !
 La rive nord du lac est un lieu de villégiature et de loisirs pendant l'été, les plus courageux n'ont pas peur de plonger dans ses eaux sereines et cristallines mais pourtant bien froides... Nous y plongeons tout de même les orteils ! 
 
 En cours de route, une première escale nous mène dans les gorges alpines de Grigorievskoe : nous parcourons un sentier de randonnée bordé par une rivière vive, de hauts sapins, à flanc de montagne. 
