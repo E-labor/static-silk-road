@@ -17,14 +17,14 @@ data-timeline:
     viewBox: 1775 150 800 500
 ---
 Aujourd'hui nous prenons la route pour Karakol, et longeons toute la rive nord du lac Issyk Kul.
-Ce lac pourtant situé à 1606m d'altitude et entouré des sommets enneigés des Tien Shan ne gèle jamais. Il est salé et reçoit l'eau de toutes les rivières issues des glaciers. Avec ses 182km de long et ses 60km de large, il est aussi le deuxième plus grand lac alpin du monde !
-La rive nord du lac est un lieu de villégiature et de loisirs pendant l'été, les plus courageux n'ont pas peur de plonger dans ses eaux sereines et cristallines mais pourtant bien froides... Nous y plongeons tout de même les orteils ! 
+Ce lac, bien que situé à 1606m d'altitude et entouré des sommets enneigés des Tien Shan, ne gèle jamais. Il est salé et reçoit l'eau de toutes les rivières issues des glaciers avoisinants. Avec ses 182km de long et ses 60km de large, il est aussi le deuxième plus grand lac alpin du monde !
+La rive nord du lac est un lieu célèbre de villégiature et de loisirs pendant l'été, les plus courageux n'ont pas peur de plonger dans ses eaux sereines et cristallines mais pourtant bien froides... Nous y plongeons tout de même les orteils ! 
 
-En cours de route, une première escale nous mène dans les gorges alpines de Grigorievskoe : nous parcourons un sentier de randonnée bordé par une rivière vive, de hauts sapins, à flanc de montagne. 
+En cours de route, une première escale nous mène dans les gorges alpines de Grigorievskoe : nous parcourons un sentier de randonnée bordé par une rivière vive, de hauts sapins, à flanc de montagne.
 
-Nous bifurquons ensuite vers les gorges de Semienovskoe qui débutent au Kazakhstan, le paysage se métamorphose sous nos yeux et laisse apparaître une plaine immense et verdoyante, parcourue de chevaux, et de troupeaux menés par des bergers, et bordée de montagne douces mais élevées. Ici, nos seuls compagnons sont les ombres et les lumières qui défilent sur les reliefs, le vent qui apporte la fraîcheur des montagnes, et l'eau qui abreuve de ses bienfaits cette immensité.
+Nous bifurquons ensuite vers les gorges de Semienovskoe qui naissent au Kazakhstan. Le paysage se métamorphose alors sous nos yeux et laisse apparaître une plaine immense et verdoyante, parcourue de chevaux, de troupeaux menés par des bergers, et bordée de montagnes douces mais élevées. Ici, nos seuls compagnons sont les ombres et les lumières qui jouent avec les reliefs, le vent qui apporte la fraîcheur des montagnes, et l'eau qui abreuve de ses bienfaits cette immensité.
 
-Le soir nous arrivons à Karakol, ville la plus importante du lac. Le ciel se couvre, la pluie s'annonce mais nous profitons malgré tout d'un sympathique dîner en terrasse avec Danil et en buvant nos premiers verres de vodka kirghize.
+Le soir nous arrivons à Karakol, ville la plus importante du lac. Le ciel se couvre, la pluie s'annonce mais nous profitons malgré tout d'un sympathique dîner en terrasse avec Danil, en buvant nos premiers verres de vodka kirghize !
 
 {:.step-image}
 [![](/assets/img/uploads/kirghyzstan.jpeg)](/assets/img/uploads/kirghyzstan.jpeg "kirghyzstan")
