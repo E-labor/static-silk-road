@@ -23,11 +23,11 @@ Premier ennui mécanique, le moteur fait des siennes à cause de l'altitude...
 
 33 lacets, 3243 mètre d'altitude, le col du Moldo-Ashu se mérite ! Mais il laisse entrevoir des paysages magnifiques au fur et à mesure de son ascension. La route est parfois très étroite et nous frôlons tantôt le vide, tantôt la falaise... Nous regagnons rapidement une vaste plaine, dont la route n'est constituée que de cailloux, particulièrement difficile pour le chauffeur comme pour le voyageur.
 
-Cernée de montagnes encore enneigées, nous apercevons enfin une vaste étendue d'eau dont les abords sont ponctués de points blancs : les camps de yourtes installés pour l'été par les nomades qui passent la saison ici. Pas un arbre ni un arbustre, mais des étendues vierges à perte de vue.
+Cernée de montagnes encore enneigées, nous apercevons enfin une vaste étendue d'eau dont les abords sont ponctués de points blancs : les camps de yourtes installés pour l'été par les nomades qui passent la saison ici. Pas un arbre ni un arbuste, mais des étendues vierges à perte de vue.
 
 Nous vivons ici à l'heure nomade, mais un moment spécial a été prévu par notre guide Danil, et fêtons le 14 juillet comme il se doit, à coup de vodka Kirghize ! 
 
-Le lendemain matin, nous partons à l'ascension d'une montagne afin d'atteindre les premières névés. 
+Le lendemain matin, nous partons à l'ascension d'une montagne afin d'atteindre les premières névés. La vie s'égrène tout au long de notre promenade : une femme trait ses juments. Une fois baratté, son lait servira à faire de petits fromages très secs qui se conservent longtemps et qui pourront être consommés tard dans l'hiver, le fameux Kimiss (lait de jument fermenté et légèrement alcoolisé), la boisson favorite des nomades ! Des tapis d'edelweiss se déroulent sous nos pieds, et au sommet c'est un immense troupeau de chèvres, vaches et moutons qui évolue à flanc de montagne, sous la houlette de leur berger.
 
 {:.step-image}
 [![](/assets/img/uploads/kirghyzstan.jpeg)](/assets/img/uploads/kirghyzstan.jpeg "kirghyzstan")
