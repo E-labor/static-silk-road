@@ -27,7 +27,7 @@ Cernée de montagnes encore enneigées, nous apercevons enfin une vaste étendue
 
 Nous vivons ici à l'heure nomade, mais un moment spécial a été prévu par notre guide Danil, et fêtons le 14 juillet comme il se doit, à coup de vodka Kirghize ! 
 
-Le lendemain matin, nous partons à l'ascension d'une montagne afin d'atteindre les premières névés. La vie s'égrène tout au long de notre promenade : une femme trait ses juments. Une fois baratté, son lait servira à faire de petits fromages très secs qui se conservent longtemps et qui pourront être consommés tard dans l'hiver, le fameux Kimiss (lait de jument fermenté et légèrement alcoolisé), la boisson favorite des nomades ! Des tapis d'edelweiss se déroulent sous nos pieds, et au sommet c'est un immense troupeau de chèvres, vaches et moutons qui évolue à flanc de montagne, sous la houlette de leur berger.
+Le lendemain matin, nous partons à l'ascension d'une montagne afin d'atteindre les premières névés. La vie s'égrène tout au long de notre promenade : une femme trait ses juments. Une fois baratté, son lait servira à faire de petits fromages très secs qui se conservent longtemps et qui pourront être consommés tard dans l'hiver, le fameux Kimiss (lait de jument fermenté et légèrement alcoolisé), la boisson favorite des nomades ! Des tapis d'edelweiss se déroulent sous nos pieds, et au sommet c'est un immense troupeau de chèvres, vaches et moutons qui évolue à flanc de montagne, sous l'oeil attentif de leur berger. Bercés par le chant du vent, nous contemplons l'immensité de ce paysage où la frontière entre la terre et le ciel disparait.
 
 {:.step-image}
 [![](/assets/img/uploads/kirghyzstan.jpeg)](/assets/img/uploads/kirghyzstan.jpeg "kirghyzstan")
