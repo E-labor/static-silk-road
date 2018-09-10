@@ -21,6 +21,8 @@ Rien n'est meilleur que le thé chaud au retour, et nous prenons la route en dir
 
 Premier ennui mécanique, le moteur fait des siennes à cause de l'altitude...
 
+Nous faisons halte pour visiter un cimetière Kirghize. Entre traditions nomades, voire chamaniques, musulmanes et franchement soviétiques, ces endroits sont tout à l'image de l'Asie Centrale. Elles marquent le multi-culturalisme, et encore au XXIème siècle, elles restent des témoignages de ces brassages : mausolées de pisé, pierres tombales en marbre gravé, yourtes de ferraille abritant un simple tas de terre, tombeaux ouvragés ornementés de peintures représentant aigles et paysages...
+
 33 lacets, 3243 mètre d'altitude, le col du Moldo-Ashu se mérite ! Mais il laisse entrevoir des paysages magnifiques au fur et à mesure de son ascension. La route est parfois très étroite et nous frôlons tantôt le vide, tantôt la falaise... Nous regagnons rapidement une vaste plaine, dont la route n'est constituée que de cailloux, particulièrement difficile pour le chauffeur comme pour le voyageur.
 
 Cernée de montagnes encore enneigées, nous apercevons enfin une vaste étendue d'eau dont les abords sont ponctués de points blancs : les camps de yourtes installés pour l'été par les nomades qui passent la saison ici. Pas un arbre ni un arbuste, mais des étendues vierges à perte de vue.
