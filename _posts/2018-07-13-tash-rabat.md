@@ -1,7 +1,7 @@
 ---
 date: '2017-07-13T17:32:14+02:00'
-title: Tash Rabat &#8674; Song Kul
-sub-title: Lorem ipsum dolor
+title: 'Tash Rabat &#8674; Son-Kul'
+sub-title: Ce qui se passe à Son-Kul reste à Son-Kul
 step: step6
 duration: '0.8'
 data-timeline:
@@ -15,14 +15,26 @@ data-timeline:
     position: +=.0
     viewBox: 1350 325 500 500
 ---
+C'est de bon matin que nous repartons à pied vers Tash Rabat pour profiter des lieux sans l'ombre d'un touriste. Les campements plus proches du site se réveillent, les uns s'ébrouent dans la rivière glacée, les chevaux sont déjà partis vers leurs vertes vallées, le soleil caresse le velours des montagnes...
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
-Suspendisse potenti. Vestibulum volutpat. Proin semper, dolor eu porttitor scelerisque, risus dui vehicula justo, id vulputate quam ante vel ipsum. Pellentesque id neque nec ligula elementum aliquet. Maecenas venenatis tortor ut quam faucibus ornare. Donec mollis eros. Mauris magna pede, vehicula eget, molestie ac, vehicula sed, orci. Morbi pharetra urna at eros. Donec cursus dui luctus nulla. Curabitur malesuada justo in libero. In erat diam, sagittis quis, dictum at, ultrices eget, enim.
+Rien n'est meilleur que le thé chaud au retour, et nous prenons la route en direction de notre prochaine étape qui nous plongera pendant deux jours dans l'isolement absolu. Nous sommes le 14 juillet.
+
+Premier ennui mécanique, le moteur fait des siennes à cause de l'altitude...
+
+33 lacets, 3243 mètre d'altitude, le col du Moldo-Ashu se mérite ! Mais il laisse entrevoir des paysages magnifiques au fur et à mesure de son ascension. La route est parfois très étroite et nous frôlons tantôt le vide, tantôt la falaise... Nous regagnons rapidement une vaste plaine, dont la route n'est constituée que de cailloux, particulièrement difficile pour le chauffeur comme pour le voyageur.
+
+Cernée de montagnes encore enneigées, nous apercevons enfin une vaste étendue d'eau dont les abords sont ponctués de points blancs : les camps de yourtes installés pour l'été par les nomades qui passent la saison ici. Pas un arbre ni un arbuste, mais des étendues vierges à perte de vue.
+
+Nous vivons ici à l'heure nomade, mais un moment spécial a été prévu par notre guide Danil, et fêtons le 14 juillet comme il se doit, à coup de vodka Kirghize ! 
+
+Le lendemain matin, nous avons droit à un délicieux petit déjeuner avec un pain tout chaud, cuit devant nous, dans de grandes platines de métal. Nous partons à l'ascension d'une montagne afin d'atteindre les premières névés. La vie s'égrène tout au long de notre promenade : une femme trait ses juments, les hommes guident leurs troupeaux à cheval. Une fois baratté, le lait servira à faire de petits fromages très secs qui se conservent longtemps et qui pourront être consommés tard dans l'hiver. Il servira aussi à préparer le fameux koumis (lait de jument fermenté et légèrement alcoolisé), la boisson favorite des nomades ! Des tapis d'edelweiss se déroulent sous nos pieds, et au sommet c'est un immense troupeau de chèvres, vaches et moutons qui évolue à flanc de montagne, sous l'oeil attentif de leur berger. Bercés par le chant du vent, nous contemplons l'immensité de ce paysage où la frontière entre la terre et le ciel disparait.
+
+Plus tard, nous retrouvons les groupe d'espagnoles dont l'itinéraire se recoupe avec le nôtre. Nous profitons des rayons du soleil en fin d'après-midi et trinquons au vin moldave !  C'est le soir de la finale de la coupe du monde de football, nous sommes à 120km du premier point de ravitaillement. Inutile de préciser que nous n'avons plus accès au réseau depuis quelques centaines de kilomètres...
 
 {:.step-image}
-[![](/assets/img/uploads/kirghyzstan.jpeg)](/assets/img/uploads/kirghyzstan.jpeg 'kirghyzstan')
+[![](/assets/img/uploads/kirghyzstan.jpeg)](/assets/img/uploads/kirghyzstan.jpeg "kirghyzstan")
 
 {:.caption}
-*Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat*
+_Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat_
 
 Mauris euismod ante ac turpis. Donec ante ante, tincidunt sit amet, laoreet rutrum, lacinia at, sem. Nam et nunc vitae dui posuere sodales. Aliquam vel erat. Vestibulum condimentum laoreet quam. Suspendisse viverra velit at lorem. Vestibulum suscipit interdum purus. Suspendisse ut enim vitae risus blandit dignissim. Sed facilisis, odio vitae aliquam ullamcorper, elit arcu hendrerit velit, vitae pretium eros lorem luctus lectus. Aliquam non nisl. Nulla facilisi. Maecenas non tellus. Praesent ipsum nisi, lobortis non, posuere non, ultrices in, lacus. Phasellus lobortis euismod nibh. Vivamus sollicitudin velit sed felis. Suspendisse commodo augue quis dui. Suspendisse porttitor odio sed nisl lacinia gravida. Ut tincidunt, velit et tempor pulvinar, mi urna venenatis diam, in ultrices lacus nibh eu libero.
