@@ -1,7 +1,7 @@
 ---
 date: '2017-07-13T17:32:14+02:00'
-title: Tash Rabat &#8674; Song Kul
-sub-title: Lorem ipsum dolor
+title: 'Tash Rabat &#8674; Son-Kul'
+sub-title: Ce qui se passe à Son-Kul reste à Son-Kul
 step: step6
 duration: '0.8'
 data-timeline:
