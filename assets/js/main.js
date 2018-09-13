@@ -33,6 +33,7 @@ function mapAnimate() {
 		var circles = document.querySelectorAll('#steps circle');
 			circles[0].style.stroke = '#FCF375'; // set firts step circle with right style
         let el = document.querySelector('.'+ element),
+        	blankElt = document.querySelector('.'+ element +' .step-blank'),
         	map = document.getElementById("map-svg"),
         	city = cities[Number(element.slice(4))],
         	circle = circles[Number(element.slice(4))],
@@ -55,11 +56,8 @@ function mapAnimate() {
 		tl.add(showCity(city), "-=0.3"); // finally show city name
 
 		// set ScrollMagic's scene with animations
-        let scene = new ScrollMagic.Scene({
-        	duration: el.offsetHeight,
-	        triggerElement: '.'+ element,
-	        triggerHook: "onLeave"
-        });
+        let scene = (window.matchMedia("(max-width: 1199px)").matches) ? new ScrollMagic.Scene({duration: blankElt.offsetHeight - 3000,triggerElement: '.'+ element +' .step-blank',triggerHook: "onLeave"}) : new ScrollMagic.Scene({duration: el.offsetHeight,triggerElement: '.'+ element +' .step-content',triggerHook: "onLeave"});
+        
         scene.setTween(tl)
         scene.addTo(this.controller);
         // scene.addIndicators();

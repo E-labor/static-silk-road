@@ -7,14 +7,17 @@ layout: default
         <section class="step-section {% if post.step %}{{post.step}}{% endif %}"
         {% if post.duration %} data-duration="{{post.duration}}" {% endif %}
 		{% if post.data-timeline %}{% for datas in post.data-timeline %} data-timeline-{{forloop.index}}='{{datas}}' {% endfor %}{% endif %}>
-			<h2>
-				<span class="title-up">{{post.title}}</span>
-				<span class="title-down">{{post.sub-title}}</span>
-			</h2>
-			{% if post.intro %}
-			<p class="story-intro">{{post.intro}}</p>
-			{% endif %}
-			{{ post.content }}
+			<div class="step-content">
+				<h2>
+					<span class="title-up">{{post.title}}</span>
+					<span class="title-down">{{post.sub-title}}</span>
+				</h2>
+				{% if post.intro %}
+				<p class="story-intro">{{post.intro}}</p>
+				{% endif %}
+				{{ post.content }}
+			</div>
+			<div class="step-blank"></div>
 		</section>
   	{% endfor %}
 </div>
