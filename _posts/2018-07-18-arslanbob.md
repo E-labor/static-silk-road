@@ -12,4 +12,6 @@ data-timeline:
     position: +=.40
     viewBox: 850 450 800 700
 ---
-Centre névralgique
+Centre névralgique du sud, Och est aussi célèbre pour son bazar que pour la montagne du roi Monghol Babur.
+Après les traditionnels chachliks, nous partons explorer les du bazar où il est simplement impossible de ne pas se laisser tenter que ce soit par les fruits secs, les textiles, le feutre, et les objets insolites du quotidien local. Nous éprouvons la patience de Danil, qui, quoi qu'il arrive, garde toujours le sourire ! Nous repartons les bras chargés de noyaux d'abricots et d'amandes séchés, de somptueux Ikats, de tampons servant à décorer les pains,... autant de souvenirs et de saveurs que nous partagerons avec nos amis.
+
