@@ -23,7 +23,7 @@ Sous un soleil de plomb, nous gravissons la montagne Sulaiman-Too, reconnaissabl
 Sa physionomie unique était un repère pour les voyageurs de la route de la soie d'Asie Centrale.
 Vénérée comme un lieu sacré, elle abrite plusieurs lieux de culte et de grottes ornées de pétroglyphes, reliés entre eux par d'anciens sentiers.
 Depuis plus d'un millénaire, elle est un lieu de culte exceptionnel qui reflète à la fois des croyances islamiques et pré-islamiques, en particulier le culte du cheval. Elle correspond étroitement aux images iconiques de l’univers de l’Avesta et des traditions védiques : une montagne isolée, avec un pic en dominant quatre autres, se dressant au milieu d’une grande vallée fluviale, entourée par d’autres montagnes dans le paysage.
-En 1496, Babur, alors âgé de 14 ans et jeune roi de la Fergana, y fit construire une chambre de prière : le Dom Babura. Plus tard, il fonda la dynastie moghole. originaire de Fergana et fondateur de la dynastie moghole.
+En 1496, Babur, alors âgé de 14 ans et jeune roi de la Fergana, y fit construire une chambre de prière : le Dom Babura. Plus tard, il fonda la dynastie moghole.
 
 De nos jours encore, les femmes désirant enfanter viennent prier dans la grotte de la fertilité : Ene-Beshik.
 
