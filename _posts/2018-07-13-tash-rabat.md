@@ -34,7 +34,14 @@ Le lendemain matin, nous avons droit à un délicieux petit déjeuner avec un pa
 Plus tard, nous retrouvons les groupe d'espagnoles dont l'itinéraire se recoupe avec le nôtre. Nous profitons des rayons du soleil en fin d'après-midi et trinquons au vin moldave !  C'est le soir de la finale de la coupe du monde de football, nous sommes à 120km du premier point de ravitaillement. Inutile de préciser que nous n'avons plus accès au réseau depuis quelques centaines de kilomètres...
 
 {:.step-image}
-[![](/assets/img/uploads/kirghyzstan.jpeg)](/assets/img/uploads/kirghyzstan.jpeg "kirghyzstan")
+[![](/assets/img/uploads/kyrgyzstan_14-07-2018_04.jpg)](/assets/img/uploads/kyrgyzstan_14-07-2018_04.jpg "Tash Rabat")
+[![](/assets/img/uploads/kyrgyzstan_14-07-2018_06.jpg)](/assets/img/uploads/kyrgyzstan_14-07-2018_06.jpg "Sur la route de Son Kul")
+[![](/assets/img/uploads/kyrgyzstan_14-07-2018_07.jpg)](/assets/img/uploads/kyrgyzstan_14-07-2018_07.jpg "Cimetière kirghize")
+[![](/assets/img/uploads/kyrgyzstan_14-07-2018_09.jpg)](/assets/img/uploads/kyrgyzstan_14-07-2018_09.jpg "Notre yourte")
+[![](/assets/img/uploads/kyrgyzstan_14-07-2018_10.jpg)](/assets/img/uploads/kyrgyzstan_14-07-2018_10.jpg "Le lac Son Kul")
+[![](/assets/img/uploads/kyrgyzstan_14-07-2018_11.jpg)](/assets/img/uploads/kyrgyzstan_14-07-2018_11.jpg "Le lac Son Kul")
+[![](/assets/img/uploads/kyrgyzstan_14-07-2018_14.jpg)](/assets/img/uploads/kyrgyzstan_14-07-2018_14.jpg "Le camp de yourtes")
+[![](/assets/img/uploads/kyrgyzstan_14-07-2018_15.jpg)](/assets/img/uploads/kyrgyzstan_14-07-2018_15.jpg "Parés pour la nuit")
 
 {:.caption}
-_Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat_
+Tash Rabat: ses Edelweiss et marmottes, ses paysages et camps de yourtes...
