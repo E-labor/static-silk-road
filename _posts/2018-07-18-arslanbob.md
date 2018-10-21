@@ -13,8 +13,9 @@ data-timeline:
     viewBox: 850 450 800 700
 ---
 Centre névralgique du sud, Och est aussi célèbre pour son bazar que pour la montagne sacrée Sulaiman-Too (le trône de Salomon).
-Au pied d’une montagne à cinq pics, la deuxième ville du pays est reconnaissable entre mille. Malgré son absence d’intérêt sur le plan architectural en dépit de ses 3 000 ans d’histoire, son bazar et l’hospitalité de ses habitants confèrent à Och une atmosphère bien plus typique de l’Asie centrale que celle de Bichkek.
-Pour beaucoup, Och est surtout un point de départ ou d’arrivée des bus depuis/vers la Chine, de transit pour la vallée de Fergana en Ouzbékistan ou d’accès à la route du Pamir au Tadjikistan.
+Deuxième ville du pays, sans aucun attrait architectural malgré ses 3000 ans d'histoire, l'hospitalité et l'atmosphère qui règnent ici son bien plus typiques de l'Asie Centrale que celles de Bishkek.
+Och reste un centre important pour le départ ou l'arrivée vers la Chine, la Vallée du Fergana, ou encore le Pamir.
+
 Après les traditionnels chachliks, nous partons explorer les allées ombragées du bazar où il est simplement impossible de ne pas se laisser tenter que ce soit par les fruits secs, les textiles, le feutre, et les objets insolites du quotidien local. Nous éprouvons la patience de Danil, qui, quoi qu'il arrive, garde toujours le sourire ! Nous repartons les bras chargés de noyaux d'abricots et d'amandes séchés, de somptueux Ikats, de tampons servant à décorer les pains,... autant de souvenirs et de saveurs que nous partagerons avec nos amis.
 
 Nous gravissons la montagne Sulaiman-Too, qui domine la vallée de Fergana. Située au croisement d’importantes routes de la soie d’Asie centrale, elle était un repère pour les voyageurs. Vénérée comme un lieu sacré, elle abrite plusieurs lieux de culte et de grottes ornées de pétroglyphes, reliés entre eux par d'ancien sentiers.
