@@ -1,7 +1,7 @@
 ---
 date: '2017-07-18T17:45:36+02:00'
-title: Arslanbob &#8674; Och
-sub-title: Lorem ipsum dolor
+title: 'Arslanbob &#8674; Och'
+sub-title: 'Och, les couleurs du sud'
 step: step10
 duration: '0.9'
 data-timeline:
@@ -12,14 +12,26 @@ data-timeline:
     position: +=.40
     viewBox: 850 450 800 700
 ---
+Centre névralgique du sud, Och est aussi célèbre pour son bazar que pour la montagne sacrée Sulaiman-Too (le trône de Salomon).
+Deuxième ville du pays, sans aucun attrait architectural malgré ses 3000 ans d'histoire, l'hospitalité et l'atmosphère qui règnent ici son bien plus typiques de l'Asie Centrale que celles de Bishkek.
+Des légendes attribuent sa fondation à toutes sortes de personnages, du roi Salomon (Suleyman) à Alexandre le Grand. Elle fut certainement dès l’origine un centre majeur de la route de la Soie. Détruite par les Mongols au XIIIe siècle, elle prit un nouvel essor aux siècles suivants et devint plus prospère que jamais.
+Och reste un centre important pour le départ ou l'arrivée vers la Chine, la Vallée du Fergana, ou encore le Pamir.
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
-Suspendisse potenti. Vestibulum volutpat. Proin semper, dolor eu porttitor scelerisque, risus dui vehicula justo, id vulputate quam ante vel ipsum. Pellentesque id neque nec ligula elementum aliquet. Maecenas venenatis tortor ut quam faucibus ornare. Donec mollis eros. Mauris magna pede, vehicula eget, molestie ac, vehicula sed, orci. Morbi pharetra urna at eros. Donec cursus dui luctus nulla. Curabitur malesuada justo in libero. In erat diam, sagittis quis, dictum at, ultrices eget, enim.
+Après les traditionnels chachliks, nous partons explorer les allées ombragées du bazar où il est simplement impossible de ne pas se laisser tenter que ce soit par les fruits secs, les textiles, le feutre, et les objets insolites du quotidien local. Nous éprouvons la patience de Danil, qui, quoi qu'il arrive, garde toujours le sourire ! Nous repartons les bras chargés de noyaux d'abricots et d'amandes séchés, de somptueux Ikats, de tampons servant à décorer les pains,... autant de souvenirs et de saveurs que nous partagerons avec nos amis.
 
-{:.step-image}
-[![](/assets/img/uploads/kirghyzstan.jpeg)](/assets/img/uploads/kirghyzstan.jpeg 'kirghyzstan')
+Sous un soleil de plomb, nous gravissons la montagne Sulaiman-Too, reconnaissable par ses cinq pics qui dominent la vallée de Fergana. 
+Sa physionomie unique était un repère pour les voyageurs de la route de la soie d'Asie Centrale.
+Vénérée comme un lieu sacré, elle abrite plusieurs lieux de culte et de grottes ornées de pétroglyphes, reliés entre eux par d'anciens sentiers.
+Depuis plus d'un millénaire, elle est un lieu de culte exceptionnel qui reflète à la fois des croyances islamiques et pré-islamiques, en particulier le culte du cheval. Elle correspond étroitement aux images iconiques de l’univers de l’Avesta et des traditions védiques : une montagne isolée, avec un pic en dominant quatre autres, se dressant au milieu d’une grande vallée fluviale, entourée par d’autres montagnes dans le paysage.
+En 1496, Babur, alors âgé de 14 ans et jeune roi de la Fergana, y fit construire une chambre de prière : le Dom Babura. Plus tard, il fonda la dynastie moghole.
 
-{:.caption}
-*Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat*
+De nos jours encore, les femmes désirant enfanter viennent prier dans la grotte de la fertilité : Ene-Beshik.
 
-Mauris euismod ante ac turpis. Donec ante ante, tincidunt sit amet, laoreet rutrum, lacinia at, sem. Nam et nunc vitae dui posuere sodales. Aliquam vel erat. Vestibulum condimentum laoreet quam. Suspendisse viverra velit at lorem. Vestibulum suscipit interdum purus. Suspendisse ut enim vitae risus blandit dignissim. Sed facilisis, odio vitae aliquam ullamcorper, elit arcu hendrerit velit, vitae pretium eros lorem luctus lectus. Aliquam non nisl. Nulla facilisi. Maecenas non tellus. Praesent ipsum nisi, lobortis non, posuere non, ultrices in, lacus. Phasellus lobortis euismod nibh. Vivamus sollicitudin velit sed felis. Suspendisse commodo augue quis dui. Suspendisse porttitor odio sed nisl lacinia gravida. Ut tincidunt, velit et tempor pulvinar, mi urna venenatis diam, in ultrices lacus nibh eu libero.
+La montagne Suleiman-Too est classée depuis 2009 au patrimoine mondial de l'Unesco.
+
+
+
+
+
+
+
