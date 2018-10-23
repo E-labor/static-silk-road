@@ -53,8 +53,8 @@ Plus tard, nous retrouvons les groupe d'espagnoles dont l'itinéraire se recoupe
 
 {:.step-image}
 [![](/assets/img/uploads/kyrgyzstan_15-07-2018_02.jpg)](/assets/img/uploads/kyrgyzstan_15-07-2018_02.jpg "Vue depuis les premières névés")
-[![](/assets/img/uploads/kyrgyzstan_14-07-2018_03.jpg)](/assets/img/uploads/kyrgyzstan_14-07-2018_03.jpg "Edelweiss")
-[![](/assets/img/uploads/kyrgyzstan_14-07-2018_04.jpg)](/assets/img/uploads/kyrgyzstan_14-07-2018_04.jpg "Le lac Son Kul")
+[![](/assets/img/uploads/kyrgyzstan_15-07-2018_03.jpg)](/assets/img/uploads/kyrgyzstan_15-07-2018_03.jpg "Edelweiss")
+[![](/assets/img/uploads/kyrgyzstan_15-07-2018_04.jpg)](/assets/img/uploads/kyrgyzstan_15-07-2018_04.jpg "Le lac Son Kul")
 
 {:.caption}
 Vue depuis les premières névés, encore des Edelweiss, les montagnes entourant le lac
