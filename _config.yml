@@ -13,3 +13,7 @@ url: "silk-road.netlify.com"
 
 ### Site permalink settings ###
 permalink: /:title ## disables post output
+
+### Markdown Processors
+kramdown: 
+  hard_wrap: true
