@@ -24,7 +24,9 @@ Ce matin nous partons visiter un chantier archéologique sur les hauteurs de Kal
 
 Un vieil homme nous accueille et nous présente à l'équipe archéologique qui travaille activement au déterrement d'un temple zoroastrien. Le site est vaste est n'a rien à envier à certaines ruines grecques...  Les recherches ont débuté ici il y a 5 ans. Depuis longtemps, les anciens disaient qu'une cité enfuie se trouvait sur ce flanc de la montagne. Le nom même de la ville Kalaikhumb signifie "la forteresse d'en haut", et la situation en altitude du site justifie pleinement ce nom. Notre guide nous présente son coffre aux trésors : délicates céramiques peintes, canalisations en terre cuite, amphores, jeu de société, témoignages d'une civilisation raffinée et riche, techniquement avancée, ayant vécu ici il y a plus de trois mille ans. Nous restons longtemps à échanger, puis notre guide nous remet d'étincelants quartz blanc trouvés lors des fouilles : "Quand vous serez rentrés chez vous, regardez le soleil faire briller ces pierres et souvenez-vous des personnes du Pamir. Et revenez nous voir bientôt."
 
+La route vers Dushanbé nous mène à la rencontre du Petit Pamir, nous avons beaucoup perdu en altitude et nous découvrons la capitale en fin d'après-midi. La ville reprend l'architecture typique de l'ex-URSS, mais la modernité et le dynamisme sont très palpables.
 
+Une ballade dans le parc Rudaki avec la statue monumentale du poète mais aussi celle du roi Somoni, fondateur du Tadjikistan, lieu névralgique d'échanges et de rassemblement des habitants de la ville, et il est déjà temps de partir vers le restaurant pour une soirée d'au revoir. Nous avons du mal à réaliser que le voyage se termine, et qu'il va aussi falloir quitter Zafar et Zainura qui sont devenus des membres de la famille.
 
 
 
