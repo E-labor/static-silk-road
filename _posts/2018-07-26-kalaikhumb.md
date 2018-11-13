@@ -1,7 +1,7 @@
 ---
 date: '2017-07-26T00:00:00+02:00'
-title: Kalaikhumb &#8674; Dushanbe
-sub-title: Lorem ipsum dolor
+title: 'Kalaikhumb &#8674; Dushanbe'
+sub-title: Direction Dushanbé
 step: step17
 duration: '2.2'
 data-timeline:
