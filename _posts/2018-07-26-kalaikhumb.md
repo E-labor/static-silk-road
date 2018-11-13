@@ -26,7 +26,9 @@ Un vieil homme nous accueille et nous présente à l'équipe archéologique qui 
 
 La route vers Dushanbé nous mène à la rencontre du Petit Pamir, nous avons beaucoup perdu en altitude et nous découvrons la capitale en fin d'après-midi. La ville reprend l'architecture typique de l'ex-URSS, mais la modernité et le dynamisme sont très palpables.
 
-Une ballade dans le parc Rudaki avec la statue monumentale du poète mais aussi celle du roi Somoni, fondateur du Tadjikistan, lieu névralgique d'échanges et de rassemblement des habitants de la ville, et il est déjà temps de partir vers le restaurant pour une soirée d'au revoir. Nous avons du mal à réaliser que le voyage se termine, et qu'il va aussi falloir quitter Zafar et Zainura qui sont devenus des membres de la famille.
+Une ballade dans le parc Rudaki avec la statue monumentale du poète mais aussi celle du roi Somoni, fondateur du Tadjikistan, lieu névralgique d'échanges et de rassemblement des habitants de la ville, et il est déjà temps de partir vers le restaurant pour une soirée d'au revoir. Nous avons du mal à réaliser que le voyage se termine, et qu'il va aussi falloir quitter Zafar et Zainura qui sont devenus pour nous des membres de la famille.
+
+3 heures du matin, aéroport de Dushanbé direction Istanbul, au revoir chers amis, puissent nos routes se croiser encore. 
 
 
 
