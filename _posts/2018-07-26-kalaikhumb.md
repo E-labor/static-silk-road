@@ -22,7 +22,9 @@ Comment est-il possible de penser que trois semaines sont déjà passées depuis
 
 Ce matin nous partons visiter un chantier archéologique sur les hauteurs de Kalaikhumb. Derniers vertiges pour la montée, c'est à flanc de falaise que notre 4x4 gravit une piste caillouteuse, le précipice n'est pas loin mais Zafar est vraiment le roi de la route !
 
-Un vieil homme nous accueille et nous présente à l'équipe archéologique qui travaille activement au déterrement d'un temple zoroastrien. Le site est vaste est n'a rien à envier aux ruines grecques... 
+Un vieil homme nous accueille et nous présente à l'équipe archéologique qui travaille activement au déterrement d'un temple zoroastrien. Le site est vaste est n'a rien à envier à certaines ruines grecques...  Les recherches ont débuté ici il y a 5 ans. Depuis longtemps, les anciens disaient qu'une cité enfuie se trouvait sur ce flanc de la montagne. Le nom même de la ville Kalaikhumb signifie "la forteresse", et la situation en altitude du site justifie pleinement ce nom.
+
+
 
 {:.step-image}
 [![](/assets/img/uploads/kirghyzstan.jpeg)](/assets/img/uploads/kirghyzstan.jpeg "kirghyzstan")
