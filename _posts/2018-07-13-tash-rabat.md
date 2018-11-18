@@ -49,7 +49,7 @@ Notre yourte à Son Kul, le lac et le camp de yourtes, nous voilà parés pour l
 
 Le lendemain matin, nous avons droit à un délicieux petit déjeuner avec un pain tout chaud, cuit devant nous, dans de grandes platines de métal. Nous partons à l'ascension d'une montagne afin d'atteindre les premières névés. La vie s'égrène tout au long de notre promenade : une femme trait ses juments, les hommes guident leurs troupeaux à cheval. Une fois baratté, le lait servira à faire de petits fromages très secs qui se conservent longtemps et qui pourront être consommés tard dans l'hiver. Il servira aussi à préparer le fameux koumis, la boisson favorite des nomades ! Des tapis d'Edelweiss se déroulent sous nos pieds, et au sommet c'est un immense troupeau de chèvres, vaches et moutons qui évolue à flanc de montagne, sous l'oeil attentif de leur berger. Bercés par le chant du vent, nous contemplons l'immensité de ce paysage où la frontière entre la terre et le ciel disparait.
 
-Plus tard, nous retrouvons le groupe d'espagnoles dont l'itinéraire se recoupe avec le nôtre. Nous profitons des rayons du soleil en fin d'après-midi et trinquons au vin moldave ! Olé ! C'est le soir de la finale de la coupe du monde de football, nous sommes à 120 kilomètres du premier point de ravitaillement. Inutile de préciser que nous n'avons plus accès au réseau depuis bien longtemps...
+Plus tard, nous retrouvons le groupe d'espagnoles dont l'itinéraire se recoupe avec le nôtre. Nous profitons des rayons du soleil en fin d'après-midi et trinquons au vin moldave ! Olé ! C'est le soir de la finale de la coupe du monde de football, nous sommes à 120 kilomètres du premier point de ravitaillement. Inutile de préciser que nous n'avons plus accès au réseau internet depuis bien longtemps...
 
 {:.step-image}
 [![](/assets/img/uploads/kyrgyzstan_15-07-2018_02.jpg)](/assets/img/uploads/kyrgyzstan_15-07-2018_02.jpg "Vue depuis les premières névés")
@@ -57,4 +57,4 @@ Plus tard, nous retrouvons le groupe d'espagnoles dont l'itinéraire se recoupe 
 [![](/assets/img/uploads/kyrgyzstan_15-07-2018_04.jpg)](/assets/img/uploads/kyrgyzstan_15-07-2018_04.jpg "Le lac Son Kul")
 
 {:.caption}
-Vue depuis les premières névés, encore des Edelweiss, les montagnes entourant le lac
+Vue depuis les premières névés, encore des Edelweiss, les montagnes entourant le lac.
