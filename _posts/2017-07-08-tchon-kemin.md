@@ -30,7 +30,9 @@ En cours de route, une première escale nous mène dans les gorges alpines de Gr
 
 Nous bifurquons ensuite vers les gorges de Semienovskoe qui naissent au Kazakhstan. Le paysage se métamorphose alors sous nos yeux et laisse apparaître une plaine immense et verdoyante, parcourue de chevaux, de troupeaux menés par des bergers, et bordée de montagnes douces mais élevées. Ici, nos seuls compagnons sont les ombres et les lumières qui jouent avec les reliefs, le vent qui apporte la fraîcheur des montagnes, et l'eau qui abreuve de ses bienfaits cette immensité.
 
-Le soir nous arrivons à Karakol, ville la plus importante du lac. Le ciel se couvre, la pluie s'annonce mais nous profitons malgré tout d'un sympathique dîner en terrasse avec Danil, en buvant nos premiers verres de vodka kirghize !
+Le soir nous arrivons à Karakol, ville la plus importante du lac. 
+Nous tentons une sortie pour visiter le quartier : de petites datchas aux fenêtres encadrées de bois peint en bleu, et le petit magasin du coin. 
+Le ciel se couvre, la pluie s'annonce mais nous profitons malgré tout d'un sympathique dîner en terrasse avec Danil, en buvant nos premiers verres de vodka kirghize !
 
 {:.step-image}
 [![](/assets/img/uploads/kyrgyzstan_10-07-2018_01.jpg)](/assets/img/uploads/kyrgyzstan_10-07-2018_01.jpg "Semienovskoe")
