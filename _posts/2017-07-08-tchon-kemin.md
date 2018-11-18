@@ -16,17 +16,17 @@ data-timeline:
     position: +=.1
     viewBox: 1775 150 800 500
 ---
-Aujourd'hui nous prenons la route pour Karakol, et longeons toute la rive nord du lac Issyk Kul.
-Ce lac, bien que situé à 1606m d'altitude et entouré des sommets enneigés des Tien Shan, ne gèle jamais. Il est salé et reçoit l'eau de toutes les rivières issues des glaciers avoisinants. Avec ses 182km de long et ses 60km de large, il est aussi le deuxième plus grand lac alpin du monde !
-La rive nord du lac est un lieu célèbre de villégiature et de loisirs pendant l'été, les plus courageux n'ont pas peur de plonger dans ses eaux sereines et cristallines mais pourtant bien froides... Nous y plongeons tout de même les orteils ! 
+Aujourd'hui, destination Karakol.  Nous longeons toute la rive nord du lac Issyk Kul.
+Ce lac, bien que situé à 1 606 mètres d'altitude et entouré des sommets enneigés des Tien Shan, ne gèle jamais. Il est salé et reçoit l'eau de toutes les rivières issues des glaciers avoisinants. Avec ses 182 kilomètres de long et ses 60 kilomètres de large, il est aussi le deuxième plus grand lac alpin du monde. 
+La rive nord du lac est un lieu célèbre de villégiature et de loisirs pendant l'été. Ses petites plages de sable blond, souvent situées en bord de route, accueillent les plus courageux n'ont pas peur de plonger dans ses eaux sereines et cristallines mais pourtant bien froides... Nous y plongeons tout de même les orteils ! 
 
 {:.step-image}
 [![](/assets/img/uploads/kyrgyzstan_10-07-2018_03.jpg)](/assets/img/uploads/kyrgyzstan_10-07-2018_03.jpg "Lac Issyk kul")
 
 {:.caption}
-Dans le lac, même en été, on y plonge que les pieds...
+Les eaux transparentes de l'Issyk Kul.
 
-En cours de route, une première escale nous mène dans les gorges alpines de Grigorievskoe : nous parcourons un sentier de randonnée bordé par une rivière vive, de hauts sapins, à flanc de montagne.
+En cours de route, une première escale nous mène dans les gorges alpines de Grigorievskoe : nous parcourons un sentier de randonnée bordé par une rivière vive, de hauts sapins, à flanc de montagne. Impossible de se croire en Asie Centrale tant le paysage ressemble à nos vieilles montagnes européennes !
 
 Nous bifurquons ensuite vers les gorges de Semienovskoe qui naissent au Kazakhstan. Le paysage se métamorphose alors sous nos yeux et laisse apparaître une plaine immense et verdoyante, parcourue de chevaux, de troupeaux menés par des bergers, et bordée de montagnes douces mais élevées. Ici, nos seuls compagnons sont les ombres et les lumières qui jouent avec les reliefs, le vent qui apporte la fraîcheur des montagnes, et l'eau qui abreuve de ses bienfaits cette immensité.
 
