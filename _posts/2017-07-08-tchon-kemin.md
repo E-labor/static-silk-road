@@ -21,7 +21,7 @@ Ce lac, bien que situé à 1 606 mètres d'altitude et entouré des sommets enne
 La rive nord du lac est un lieu célèbre de villégiature et de loisirs pendant l'été. Ses petites plages de sable blond, souvent situées en bord de route, accueillent les plus courageux n'ont pas peur de plonger dans ses eaux sereines et cristallines mais pourtant bien froides... Nous y plongeons tout de même les orteils ! 
 
 {:.step-image}
-[![](/assets/img/uploads/kyrgyzstan_10-07-2018_03.jpg){:.lazy data-src="/assets/img/uploads/kyrgyzstan_10-07-2018_03.jpg"}](/assets/img/uploads/kyrgyzstan_10-07-2018_03.jpg "Lac Issyk kul")
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_10-07-2018_03.jpg"}](/assets/img/uploads/kyrgyzstan_10-07-2018_03.jpg "Lac Issyk kul"){:.large-img}
 
 {:.caption}
 Les eaux transparentes de l'Issyk Kul.
@@ -35,8 +35,8 @@ Nous tentons une sortie pour visiter le quartier : de petites datchas aux fenêt
 Le ciel se couvre, la pluie s'annonce mais nous profitons malgré tout d'un sympathique dîner en terrasse avec Danil, en buvant nos premiers verres de vodka kirghize !
 
 {:.step-image}
-[![](/assets/img/uploads/kyrgyzstan_10-07-2018_01.jpg){:.lazy data-src="/assets/img/uploads/kyrgyzstan_10-07-2018_01.jpg"}](/assets/img/uploads/kyrgyzstan_10-07-2018_01.jpg "Semienovskoe")
-[![](/assets/img/uploads/kyrgyzstan_10-07-2018_02.jpg){:.lazy data-src="/assets/img/uploads/kyrgyzstan_10-07-2018_02.jpg"}](/assets/img/uploads/kyrgyzstan_10-07-2018_02.jpg "Semienovskoe")
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_10-07-2018_01.jpg"}](/assets/img/uploads/kyrgyzstan_10-07-2018_01.jpg "Semienovskoe"){:.large-img}
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_10-07-2018_02.jpg"}](/assets/img/uploads/kyrgyzstan_10-07-2018_02.jpg "Semienovskoe"){:.large-img}
 
 {:.caption}
 Les gorges de Semienovskoe avec au fond derrière les montagnes le Kazakhstan...

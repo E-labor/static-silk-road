@@ -31,7 +31,7 @@ Une ballade dans le parc Rudaki avec la statue monumentale du poète mais aussi 
 3 heures du matin, aéroport de Dushanbé direction Istanbul, au revoir chers amis, puissent nos routes se croiser encore. 
 
 {:.step-image}
-[![](/assets/img/uploads/kirghyzstan.jpeg){:.lazy data-src="/assets/img/uploads/kirghyzstan.jpeg"}](/assets/img/uploads/kirghyzstan.jpeg "kirghyzstan")
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kirghyzstan.jpeg"}](/assets/img/uploads/kirghyzstan.jpeg "kirghyzstan"){:.large-img}
 
 {:.caption}
 _Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat_

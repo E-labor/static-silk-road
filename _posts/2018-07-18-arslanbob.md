@@ -20,9 +20,9 @@ Och reste un centre important pour le départ ou l'arrivée vers la Chine, la Va
 Après les traditionnels chachliks, nous partons explorer les allées ombragées du bazar où il est simplement impossible de ne pas se laisser tenter que ce soit par les fruits secs, les textiles, le feutre, et les objets insolites du quotidien local. Nous éprouvons la patience de Danil, qui, quoi qu'il arrive, garde toujours le sourire ! Nous repartons les bras chargés de noyaux d'abricots et d'amandes séchés, de somptueux Ikats, de tampons en bois servant à décorer les pains,... autant de souvenirs et de saveurs que nous partagerons avec nos amis.
 
 {:.step-image}
-[![](/assets/img/uploads/kyrgyzstan_20-07-2018_01.jpg){:.lazy data-src="/assets/img/uploads/kyrgyzstan_20-07-2018_01.jpg"}](/assets/img/uploads/kyrgyzstan_20-07-2018_01.jpg "Ancien minaret de Uzgen")
-[![](/assets/img/uploads/kyrgyzstan_20-07-2018_03.jpg){:.lazy data-src="/assets/img/uploads/kyrgyzstan_20-07-2018_03.jpg"}](/assets/img/uploads/kyrgyzstan_20-07-2018_03.jpg "Jeunes femmes ouzbèkes")
-[![](/assets/img/uploads/kyrgyzstan_20-07-2018_04.jpg){:.lazy data-src="/assets/img/uploads/kyrgyzstan_20-07-2018_04.jpg"}](/assets/img/uploads/kyrgyzstan_20-07-2018_04.jpg "Vendeur de chachliks")
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_20-07-2018_01.jpg"}](/assets/img/uploads/kyrgyzstan_20-07-2018_01.jpg "Ancien minaret de Uzgen"){:.large-img}
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_20-07-2018_03.jpg"}](/assets/img/uploads/kyrgyzstan_20-07-2018_03.jpg "Jeunes femmes ouzbèkes"){:.large-img}
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_20-07-2018_04.jpg"}](/assets/img/uploads/kyrgyzstan_20-07-2018_04.jpg "Vendeur de chachliks"){:.large-img}
 
 {:.caption}
 Ancien minaret de Uzgen, jeunes femmes ouzbèkes tenant un stand de photos souvenirs et vendeurs de chachliks
