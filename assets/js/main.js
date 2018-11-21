@@ -25,7 +25,7 @@ cities.forEach((city, index) => {
 // lightGallery for all images
 var stepImages = document.querySelectorAll('.step-image');
 stepImages.forEach(function(images) {
-  lightGallery(images);
+  lightGallery(images, {preload: 0});
 });
 
 // function to animate path & the map viewbox(pan & zoom) 
