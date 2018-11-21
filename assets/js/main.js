@@ -1,6 +1,3 @@
-// init Yall for lazy loading images & videos
-document.addEventListener("DOMContentLoaded", yall);
-
 // function to simulate svg path hidden
 function pathPrepare(el) {
 	let lineLength = el.getTotalLength();
