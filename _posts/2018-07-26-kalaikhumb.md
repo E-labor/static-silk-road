@@ -31,7 +31,12 @@ Une ballade dans le parc Rudaki avec la statue monumentale du poète mais aussi 
 3 heures du matin, aéroport de Dushanbé direction Istanbul, au revoir chers amis, puissent nos routes se croiser encore. 
 
 {:.step-image}
-[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kirghyzstan.jpeg"}](/assets/img/uploads/kirghyzstan.jpeg "kirghyzstan"){:.large-img}
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/tadjikistan_27-07-2018_01.jpg"}](/assets/img/uploads/tadjikistan_27-07-2018_01.jpg "Kalaikhumb"){:.large-img}
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/tadjikistan_27-07-2018_02.jpg"}](/assets/img/uploads/tadjikistan_27-07-2018_02.jpg "Kalaikhumb"){:.large-img}
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/tadjikistan_27-07-2018_03.jpg"}](/assets/img/uploads/tadjikistan_27-07-2018_03.jpg "Kalaikhumb"){:.large-img}
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/tadjikistan_27-07-2018_04.jpg"}](/assets/img/uploads/tadjikistan_27-07-2018_04.jpg "Kalaikhumb"){:.large-img}
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/tadjikistan_27-07-2018_05.jpg"}](/assets/img/uploads/tadjikistan_27-07-2018_05.jpg "Frontière afghane"){:.large-img}
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/tadjikistan_27-07-2018_08.jpg"}](/assets/img/uploads/tadjikistan_27-07-2018_08.jpg "Nurek"){:.large-img}
 
 {:.caption}
-_Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat_
+Les fouilles archéologiques à Kalaikhumb et la vue depuis l'ancienne forteresse, bye bye Afghanistan !, réserve d'eau artificeille de Nurek
