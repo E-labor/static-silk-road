@@ -16,7 +16,7 @@ data-timeline:
     viewBox: 220 900 900 750
   - duration: '.5'
     position: +=.35
-    viewBox: 425 600 1400 2000
+    viewBox: 250 600 1400 1720
 ---
 Comment est-il possible de penser que trois semaines sont déjà passées depuis ce défilé de paysages hors normes, ces rencontres attachantes et tous ces moments partagés ? Ces surprises, ces souffles coupés par tant de découvertes et de splendeurs ?
 

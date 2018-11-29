@@ -1,6 +1,17 @@
 // init Yall for lazy loading images & videos
 document.addEventListener("DOMContentLoaded", yall);
 
+// Size svg map on load
+window.onload = () => {
+	const mq = window.matchMedia( "(min-width: 1500px)" );
+	const map = document.querySelector('#map-svg');
+	if (mq.matches) {
+		map.setAttribute('viewBox', '300 0 2724 1616');
+	} else {
+		map.setAttribute('viewBox', '850 0 3000 3000');
+	}
+};
+
 // function to simulate svg path hidden
 function pathPrepare(el) {
 	let lineLength = el.getTotalLength();

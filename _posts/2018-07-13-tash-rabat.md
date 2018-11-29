@@ -52,9 +52,9 @@ Le lendemain matin, nous avons droit à un délicieux petit déjeuner avec un pa
 Plus tard, nous retrouvons les groupe d'espagnoles dont l'itinéraire se recoupe avec le nôtre. Nous profitons des rayons du soleil en fin d'après-midi et trinquons au vin moldave !  C'est le soir de la finale de la coupe du monde de football, nous sommes à 120km du premier point de ravitaillement. Inutile de préciser que nous n'avons plus accès au réseau depuis quelques centaines de kilomètres...
 
 {:.step-image}
-[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_14-07-2018_02.jpg"}](/assets/img/uploads/kyrgyzstan_15-07-2018_02.jpg "Vue depuis les premières névés"){:.large-img}
-[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_14-07-2018_03.jpg"}](/assets/img/uploads/kyrgyzstan_15-07-2018_03.jpg "Edelweiss"){:.large-img}
-[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_14-07-2018_04.jpg"}](/assets/img/uploads/kyrgyzstan_15-07-2018_04.jpg "Le lac Son Kul"){:.large-img}
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_15-07-2018_02.jpg"}](/assets/img/uploads/kyrgyzstan_15-07-2018_02.jpg "Vue depuis les premières névés"){:.large-img}
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_15-07-2018_03.jpg"}](/assets/img/uploads/kyrgyzstan_15-07-2018_03.jpg "Edelweiss"){:.large-img}
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_15-07-2018_04.jpg"}](/assets/img/uploads/kyrgyzstan_15-07-2018_04.jpg "Le lac Son Kul"){:.large-img}
 
 {:.caption}
 Vue depuis les premières névés, encore des Edelweiss, les montagnes entourant le lac
