@@ -9,4 +9,4 @@ sub-title: ' Remerciements'
 [![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/tadjikistan_22-07-2018_07.jpg"}](/assets/img/uploads/tadjikistan_22-07-2018_07.jpg "Zafar & Zaïnoura"){:.large-img}
 
 {:.caption}
-Assel & Danil, Zafar & Zaïnoura
+Assel & Danil, Zafar & Zaïnoura.
