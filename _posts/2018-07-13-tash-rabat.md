@@ -19,7 +19,7 @@ C'est de bon matin que nous repartons à pied vers Tash Rabat pour profiter des 
 
 Rien n'est meilleur que le thé chaud et le pain fraîchement cuit au retour, et nous prenons la route en direction de notre prochaine étape qui nous plongera pendant deux jours dans l'isolement absolu. Nous sommes le 14 juillet.
 
-Premier ennui mécanique, le moteur fait des siennes à cause de l'altitude...
+Premier ennui mécanique, le moteur, qui tourne au gaz, fait des siennes à cause de l'altitude...
 
 Nous faisons halte pour visiter un cimetière Kirghize, témoin silencieux des brassages culturels : nomades bien sûr, chamaniques, musulmans, soviétiques... Petit paysage accroché à l'immensité : mausolées de pisé, pierres tombales en marbre gravé, yourtes de ferraille protégeant un simple monticule de terre, tombeaux ouvragés ornementés de peintures représentant aigles et paysages...
 
@@ -57,4 +57,4 @@ Plus tard, nous retrouvons le groupe d'espagnoles dont l'itinéraire se recoupe 
 [![](/assets/img/uploads/kyrgyzstan_15-07-2018_04.jpg)](/assets/img/uploads/kyrgyzstan_15-07-2018_04.jpg "Le lac Son Kul")
 
 {:.caption}
-Vue depuis les premières névés, encore des Edelweiss, les montagnes entourant le lac.
+Vue depuis les premières névés, encore des Edelweiss, massifs montagneux cernant le lac.
