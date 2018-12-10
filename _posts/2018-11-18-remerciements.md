@@ -12,5 +12,5 @@ Zafar, tes blagues et tes devinettes nous manquent, et nous en préparons spéci
 
 Chers amis, votre rencontre a été plus qu'un merveilleux cadeau, elle continue a enrichir notre quotidien. Bien loin des steppes et du toit du monde, nous gardons dans le coeur l'infinie liberté que nous ont apporté ces jours avec vous. 
 
-Nous n'oublions pas : Assel et son sourire radieux, son professionnalisme et ses conseils, 
+Nous n'oublions pas Assel et son sourire radieux, son professionnalisme et ses conseils, Talgarbek et Toumara, ses enfants, Lila et Fatima, Kanybek, Aziz et sa famille, Aïdar et l'accueil chaleureux prodigué par tous nos hôtes du Gorno-Badakhshan.
 
