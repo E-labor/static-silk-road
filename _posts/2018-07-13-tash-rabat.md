@@ -29,7 +29,7 @@ Nous faisons halte pour visiter un cimetière Kirghize. Entre traditions nomades
 [![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_14-07-2018_07.jpg"}](/assets/img/uploads/kyrgyzstan_14-07-2018_07.jpg "Cimetière kirghize"){:.large-img}
 
 {:.caption}
-Le caravansérail de Tash Rabat et sur la route de Son kul, un cimetière kirghize
+Le caravansérail de Tash Rabat et sur la route de Son kul, un cimetière kirghize.
 
 33 lacets, 3243 mètre d'altitude, le col du Moldo-Ashu se mérite ! Mais il laisse entrevoir des paysages magnifiques au fur et à mesure de son ascension. La route est parfois très étroite et nous frôlons tantôt le vide, tantôt la falaise... Nous regagnons rapidement une vaste plaine, dont la route n'est constituée que de cailloux, particulièrement difficile pour le chauffeur comme pour le voyageur.
 
@@ -42,10 +42,13 @@ Nous vivons ici à l'heure nomade, mais un moment spécial a été prévu par no
 [![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_14-07-2018_10.jpg"}](/assets/img/uploads/kyrgyzstan_14-07-2018_10.jpg "Le lac Son Kul"){:.large-img}
 [![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_14-07-2018_11.jpg"}](/assets/img/uploads/kyrgyzstan_14-07-2018_11.jpg "Le lac Son Kul"){:.large-img}
 [![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_14-07-2018_14.jpg"}](/assets/img/uploads/kyrgyzstan_14-07-2018_14.jpg "Le camp de yourtes"){:.large-img}
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_14-07-2018_16.jpg"}](/assets/img/uploads/kyrgyzstan_14-07-2018_16.jpg "La yourte pour les repas"){:.large-img}
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_14-07-2018_17.jpg"}](/assets/img/uploads/kyrgyzstan_14-07-2018_17.jpg "La yourte pour les repas"){:.large-img}
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_14-07-2018_18.jpg"}](/assets/img/uploads/kyrgyzstan_14-07-2018_18.jpg "Le fameux Tunduk"){:.large-img}
 [![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_14-07-2018_15.jpg"}](/assets/img/uploads/kyrgyzstan_14-07-2018_15.jpg "Parés pour la nuit"){:.large-img}
 
 {:.caption}
-Notre yourte à Son Kul, le lac et le camp de yourtes, nous voilà parés pour la nuit
+Notre yourte à Son Kul, le lac et le camp de yourtes avec sa yourte pour les repas, le fameux Tunduk présent sur le drapeau kirghize, nous voilà parés pour la nuit !
 
 Le lendemain matin, nous avons droit à un délicieux petit déjeuner avec un pain tout chaud, cuit devant nous, dans de grandes platines de métal. Nous partons à l'ascension d'une montagne afin d'atteindre les premières névés. La vie s'égrène tout au long de notre promenade : une femme trait ses juments, les hommes guident leurs troupeaux à cheval. Une fois baratté, le lait servira à faire de petits fromages très secs qui se conservent longtemps et qui pourront être consommés tard dans l'hiver. Il servira aussi à préparer le fameux koumis (lait de jument fermenté et légèrement alcoolisé), la boisson favorite des nomades ! Des tapis d'edelweiss se déroulent sous nos pieds, et au sommet c'est un immense troupeau de chèvres, vaches et moutons qui évolue à flanc de montagne, sous l'oeil attentif de leur berger. Bercés par le chant du vent, nous contemplons l'immensité de ce paysage où la frontière entre la terre et le ciel disparait.
 
@@ -57,4 +60,4 @@ Plus tard, nous retrouvons les groupe d'espagnoles dont l'itinéraire se recoupe
 [![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_15-07-2018_04.jpg"}](/assets/img/uploads/kyrgyzstan_15-07-2018_04.jpg "Le lac Son Kul"){:.large-img}
 
 {:.caption}
-Vue depuis les premières névés, encore des Edelweiss, les montagnes entourant le lac
+Vue depuis les premières névés, encore des Edelweiss, les montagnes entourant le lac.
