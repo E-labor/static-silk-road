@@ -12,8 +12,8 @@ data-timeline:
     position: +=.40
     viewBox: 850 450 800 700
 ---
-Centre névralgique du sud, Och est aussi célèbre pour son bazar que pour la montagne sacrée Sulaiman-Too (le trône de Salomon).
-Deuxième ville du pays, sans aucun attrait architectural malgré ses 3000 ans d'histoire, l'hospitalité et l'atmosphère qui règnent ici son bien plus typiques de l'Asie Centrale qu'à Bishkek.
+Centre névralgique du sud du pays, Och est aussi célèbre pour son bazar que pour la montagne sacrée Sulaiman-Too (le trône de Salomon).
+Deuxième ville du pays, sans aucun attrait architectural malgré ses 3 000 ans d'histoire, l'hospitalité et l'atmosphère qui règnent ici son bien plus typiques de l'Asie Centrale qu'à Bishkek.
 Des légendes attribuent la fondation de cette ville à toutes sortes de personnages, du roi Salomon (Suleyman) à Alexandre le Grand. Elle fut certainement dès l’origine un centre majeur de la Route de la Soie. Détruite par les Mongols au XIIIe siècle, elle prit un nouvel essor aux siècles suivants et devint plus prospère que jamais.
 Och reste un centre important pour le départ ou l'arrivée vers la Chine, la Vallée du Fergana, ou encore le Pamir.
 
@@ -25,7 +25,7 @@ Après les traditionnels chachliks, nous partons explorer les allées ombragées
 [![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_20-07-2018_04.jpg"}](/assets/img/uploads/kyrgyzstan_20-07-2018_04.jpg "Vendeur de chachliks"){:.large-img}
 
 {:.caption}
-Ancien minaret de Uzgen, jeunes femmes ouzbèkes tenant un stand de photos souvenirs et vendeurs de chachliks
+Ancien minaret de Uzgen, jeunes femmes ouzbèkes tenant un stand de photos souvenirs, cuisine en plein air : les chachliks.
 
 Sous un soleil de plomb, nous gravissons la montagne Sulaiman-Too, reconnaissable par ses cinq pics qui dominent la vallée de Fergana. 
 Sa physionomie unique était un repère pour les voyageurs de la Route de la Soie d'Asie Centrale.
