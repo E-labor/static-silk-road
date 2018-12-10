@@ -42,4 +42,4 @@ Une ballade dans le parc Rudaki avec la statue monumentale du poète mais aussi 
 [![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/tadjikistan_27-07-2018_10.jpg"}](/assets/img/uploads/tadjikistan_27-07-2018_10.jpg "le parc Rudaki"){:.large-img}
 
 {:.caption}
-Les fouilles archéologiques à Kalaikhumb et la vue depuis l'ancienne forteresse, bye bye Afghanistan ! Réserve d'eau artificeille de Nurek, le parc Rudaki avec sa statue 
+Les fouilles archéologiques à Kalaikhumb et la vue depuis l'ancienne forteresse, bye bye Afghanistan ! Réserve d'eau artificeille de Nurek, le parc Rudaki avec sa statue du roi Somoni.
