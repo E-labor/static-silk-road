@@ -21,7 +21,7 @@ Rien n'est meilleur que le thé chaud et le pain fraîchement cuit au retour, et
 
 Premier ennui mécanique, le moteur fait des siennes à cause de l'altitude...
 
-Nous faisons halte pour visiter un cimetière Kirghize, témoin silencieux des brassages culturels : nomades bien sûr, chamaniques, musulmans, soviétiques... Petit paysage accroché à l'immensité : mausolées de pisé, pierres tombales en marbre gravé, yourtes de ferraille abritant un simple tas de terre, tombeaux ouvragés ornementés de peintures représentant aigles et paysages...
+Nous faisons halte pour visiter un cimetière Kirghize, témoin silencieux des brassages culturels : nomades bien sûr, chamaniques, musulmans, soviétiques... Petit paysage accroché à l'immensité : mausolées de pisé, pierres tombales en marbre gravé, yourtes de ferraille protégeant un simple monticule de terre, tombeaux ouvragés ornementés de peintures représentant aigles et paysages...
 
 {:.step-image}
 [![](/assets/img/uploads/kyrgyzstan_14-07-2018_04.jpg)](/assets/img/uploads/kyrgyzstan_14-07-2018_04.jpg "Tash Rabat")
@@ -29,7 +29,7 @@ Nous faisons halte pour visiter un cimetière Kirghize, témoin silencieux des b
 [![](/assets/img/uploads/kyrgyzstan_14-07-2018_07.jpg)](/assets/img/uploads/kyrgyzstan_14-07-2018_07.jpg "Cimetière kirghize")
 
 {:.caption}
-Le caravansérail de Tash Rabat et sur la route de Son kul, un cimetière kirghize.
+Le caravansérail de Tash Rabat et sur la route de Son Kul, un cimetière kirghize.
 
 33 lacets, 3 243 mètres d'altitude, le col du Moldo-Ashu se mérite ! Mais il laisse entrevoir des paysages magnifiques au fur et à mesure de son ascension. La route est parfois très étroite et nous frôlons tantôt le vide, tantôt la falaise... Nous regagnons rapidement une vaste plaine, dont la route n'est constituée que de cailloux, particulièrement difficile pour le chauffeur comme pour le voyageur.
 
