@@ -24,9 +24,9 @@ Premier ennui mécanique, le moteur, qui tourne au gaz, fait des siennes à caus
 Nous faisons halte pour visiter un cimetière Kirghize, témoin silencieux des brassages culturels : nomades bien sûr, chamaniques, musulmans, soviétiques... Petit paysage accroché à l'immensité : mausolées de pisé, pierres tombales en marbre gravé, yourtes de ferraille protégeant un simple monticule de terre, tombeaux ouvragés ornementés de peintures représentant aigles et paysages...
 
 {:.step-image}
-[![](/assets/img/uploads/kyrgyzstan_14-07-2018_04.jpg)](/assets/img/uploads/kyrgyzstan_14-07-2018_04.jpg "Tash Rabat")
-[![](/assets/img/uploads/kyrgyzstan_14-07-2018_06.jpg)](/assets/img/uploads/kyrgyzstan_14-07-2018_06.jpg "Sur la route de Son Kul")
-[![](/assets/img/uploads/kyrgyzstan_14-07-2018_07.jpg)](/assets/img/uploads/kyrgyzstan_14-07-2018_07.jpg "Cimetière kirghize")
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_14-07-2018_04.jpg"}](/assets/img/uploads/kyrgyzstan_14-07-2018_04.jpg "Tash Rabat"){:.large-img}
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_14-07-2018_06.jpg"}](/assets/img/uploads/kyrgyzstan_14-07-2018_06.jpg "Sur la route de Son Kul"){:.large-img}
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_14-07-2018_07.jpg"}](/assets/img/uploads/kyrgyzstan_14-07-2018_07.jpg "Cimetière kirghize"){:.large-img}
 
 {:.caption}
 Le caravansérail de Tash Rabat et sur la route de Son Kul, un cimetière kirghize.
@@ -38,23 +38,29 @@ Cernée de montagnes encore enneigées, nous apercevons enfin le miroir d'une va
 Nous vivons ici à l'heure nomade, mais un moment spécial a été prévu par notre guide Danil, et fêtons le 14 juillet comme il se doit, à coup de vodka Kirghize ! 
 
 {:.step-image}
-[![](/assets/img/uploads/kyrgyzstan_14-07-2018_09.jpg)](/assets/img/uploads/kyrgyzstan_14-07-2018_09.jpg "Notre yourte")
-[![](/assets/img/uploads/kyrgyzstan_14-07-2018_10.jpg)](/assets/img/uploads/kyrgyzstan_14-07-2018_10.jpg "Le lac Son Kul")
-[![](/assets/img/uploads/kyrgyzstan_14-07-2018_11.jpg)](/assets/img/uploads/kyrgyzstan_14-07-2018_11.jpg "Le lac Son Kul")
-[![](/assets/img/uploads/kyrgyzstan_14-07-2018_14.jpg)](/assets/img/uploads/kyrgyzstan_14-07-2018_14.jpg "Le camp de yourtes")
-[![](/assets/img/uploads/kyrgyzstan_14-07-2018_15.jpg)](/assets/img/uploads/kyrgyzstan_14-07-2018_15.jpg "Parés pour la nuit")
+
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_14-07-2018_09.jpg"}](/assets/img/uploads/kyrgyzstan_14-07-2018_09.jpg "Notre yourte"){:.large-img}
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_14-07-2018_10.jpg"}](/assets/img/uploads/kyrgyzstan_14-07-2018_10.jpg "Le lac Son Kul"){:.large-img}
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_14-07-2018_11.jpg"}](/assets/img/uploads/kyrgyzstan_14-07-2018_11.jpg "Le lac Son Kul"){:.large-img}
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_14-07-2018_14.jpg"}](/assets/img/uploads/kyrgyzstan_14-07-2018_14.jpg "Le camp de yourtes"){:.large-img}
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_14-07-2018_16.jpg"}](/assets/img/uploads/kyrgyzstan_14-07-2018_16.jpg "La yourte pour les repas"){:.large-img}
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_14-07-2018_17.jpg"}](/assets/img/uploads/kyrgyzstan_14-07-2018_17.jpg "La yourte pour les repas"){:.large-img}
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_14-07-2018_18.jpg"}](/assets/img/uploads/kyrgyzstan_14-07-2018_18.jpg "Le fameux Tunduk"){:.large-img}
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_14-07-2018_15.jpg"}](/assets/img/uploads/kyrgyzstan_14-07-2018_15.jpg "Parés pour la nuit"){:.large-img}
 
 {:.caption}
-Notre yourte à Son Kul, le lac et le camp de yourtes, nous voilà parés pour la nuit !
+Notre yourte à Son Kul, le lac et le camp de yourtes avec sa yourte pour les repas, le fameux Tunduk présent sur le drapeau kirghize, nous voilà parés pour la nuit !
 
 Le lendemain matin, nous avons droit à un délicieux petit déjeuner avec un pain tout chaud, cuit devant nous, dans de grandes platines de métal. Nous partons à l'ascension d'une montagne afin d'atteindre les premières névés. La vie s'égrène tout au long de notre promenade : une femme trait ses juments, les hommes guident leurs troupeaux à cheval. Une fois baratté, le lait servira à faire de petits fromages très secs qui se conservent longtemps et qui pourront être consommés tard dans l'hiver. Il servira aussi à préparer le fameux koumis, la boisson favorite des nomades ! Des tapis d'Edelweiss se déroulent sous nos pieds, et au sommet c'est un immense troupeau de chèvres, vaches et moutons qui évolue à flanc de montagne, sous l'oeil attentif de leur berger. Bercés par le chant du vent, nous contemplons l'immensité de ce paysage où la frontière entre la terre et le ciel disparait.
 
 Plus tard, nous retrouvons le groupe d'espagnoles dont l'itinéraire se recoupe avec le nôtre. Nous profitons des rayons du soleil en fin d'après-midi et trinquons au vin moldave ! Olé ! C'est le soir de la finale de la coupe du monde de football, nous sommes à 120 kilomètres du premier point de ravitaillement. Inutile de préciser que nous n'avons plus accès au réseau internet depuis bien longtemps...
 
 {:.step-image}
-[![](/assets/img/uploads/kyrgyzstan_15-07-2018_02.jpg)](/assets/img/uploads/kyrgyzstan_15-07-2018_02.jpg "Vue depuis les premières névés")
-[![](/assets/img/uploads/kyrgyzstan_15-07-2018_03.jpg)](/assets/img/uploads/kyrgyzstan_15-07-2018_03.jpg "Edelweiss")
-[![](/assets/img/uploads/kyrgyzstan_15-07-2018_04.jpg)](/assets/img/uploads/kyrgyzstan_15-07-2018_04.jpg "Le lac Son Kul")
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_15-07-2018_02.jpg"}](/assets/img/uploads/kyrgyzstan_15-07-2018_02.jpg "Vue depuis les premières névés"){:.large-img}
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_15-07-2018_03.jpg"}](/assets/img/uploads/kyrgyzstan_15-07-2018_03.jpg "Edelweiss"){:.large-img}
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_15-07-2018_04.jpg"}](/assets/img/uploads/kyrgyzstan_15-07-2018_04.jpg "Le lac Son Kul"){:.large-img}
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_14-07-2018_19.jpg"}](/assets/img/uploads/kyrgyzstan_14-07-2018_19.jpg "Yourte"){:.large-img}
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_14-07-2018_03.jpg"}](/assets/img/uploads/kyrgyzstan_14-07-2018_03.jpg "Petit déjeuner"){:.large-img}
 
 {:.caption}
-Vue depuis les premières névés, encore des Edelweiss, massifs montagneux cernant le lac.
+Vue depuis les premières névés, encore des Edelweiss, massifs montagneux cernant le lac, le petit déjeuner en préparation.

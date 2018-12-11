@@ -37,7 +37,11 @@ De nos jours encore, les femmes désirant enfanter viennent prier dans la grotte
 
 La montagne Suleiman-Too est classée depuis 2009 au patrimoine mondial de l'Unesco.
 
+{:.step-image}
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_20-07-2018_06.jpg"}](/assets/img/uploads/kyrgyzstan_20-07-2018_06.jpg "Dom Babura"){:.large-img}
 
+{:.caption}
+Le Dom Babura en haut de la montagne Sulaiman-Too.
 
 
 
