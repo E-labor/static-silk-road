@@ -60,7 +60,7 @@ Plus tard, nous retrouvons le groupe d'espagnoles dont l'itinéraire se recoupe 
 [![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_15-07-2018_03.jpg"}](/assets/img/uploads/kyrgyzstan_15-07-2018_03.jpg "Edelweiss"){:.large-img}
 [![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_15-07-2018_04.jpg"}](/assets/img/uploads/kyrgyzstan_15-07-2018_04.jpg "Le lac Son Kul"){:.large-img}
 [![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_14-07-2018_19.jpg"}](/assets/img/uploads/kyrgyzstan_14-07-2018_19.jpg "Yourte"){:.large-img}
-[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_14-07-2018_03.jpg"}](/assets/img/uploads/kyrgyzstan_14-07-2018_03.jpg "Petit déjeuner"){:.large-img}
+[![](/assets/img/placeholder.png){:.lazy data-src="/assets/img/uploads/kyrgyzstan_14-07-2018_20.jpg"}](/assets/img/uploads/kyrgyzstan_14-07-2018_20.jpg "Petit déjeuner"){:.large-img}
 
 {:.caption}
 Vue depuis les premières névés, encore des Edelweiss, massifs montagneux cernant le lac, le petit déjeuner en préparation.
