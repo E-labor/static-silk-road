@@ -24,3 +24,4 @@ Nous n'oublions pas Assel et son sourire radieux, son professionnalisme et ses c
 {:.caption}
 Assel & Danil, Zafar & Zaïnoura.
 
+Toutes les photos et même plus encore sont accessibles [ici pour le Kyrgyzstan](https://www.amazon.fr/photos/share/dsxAjYrLtBUGaSRxzhyFdbbkm1uUiJI4px1XkQRsn6m) et [ici pour le Tadjikistan](https://www.amazon.fr/photos/share/vzO4JpXKFJxVZIl2o57NOpMQZfWz42BTb2DsElThCFr).
